@@ -102,7 +102,9 @@ You can test the /analyze POST endpoint manually there.
 ### Input
 
     ```json
-    { "text": "I'm nervous about my interview." }
+    { 
+        "text": "I'm nervous about my interview." 
+    }
     ```
 
 ### Output
@@ -111,6 +113,7 @@ You can test the /analyze POST endpoint manually there.
     {
         "emotion": "fear", "confidence": 0.99
     }
+    ```
 
 ## 🎥 Walkthrough Video
 
