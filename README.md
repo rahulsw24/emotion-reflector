@@ -4,8 +4,6 @@ A modern, mobile-first web app where users can reflect on their feelings, and re
 
 Built as part of an internship assignment — with extra enhancements using Hugging Face emotion classification API.
 
-
-
 ## ✨ Features
 
 - 📝 Input reflection text via a clean textarea
@@ -14,8 +12,6 @@ Built as part of an internship assignment — with extra enhancements using Hugg
 - 💻 TypeScript + React frontend with Tailwind CSS UI
 - 📱 Fully responsive, mobile-first design
 - ✅ Graceful error and loading states
-
-
 
 ## 🔧 Tech Stack
 
@@ -102,8 +98,8 @@ You can test the /analyze POST endpoint manually there.
 ### Input
 
     ```json
-    { 
-        "text": "I'm nervous about my interview." 
+    {
+        "text": "I'm nervous about my interview."
     }
     ```
 
@@ -117,7 +113,7 @@ You can test the /analyze POST endpoint manually there.
 
 ## 🎥 Walkthrough Video
 
-If you recorded a Loom video, link it here.
+https://www.loom.com/share/252305c36a484150bfbffe2290ee812c?sid=ba906f4e-0b60-432e-8eb1-0c336b01bd6a
 
 ## Contact
 
